@@ -3,13 +3,6 @@
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estou estudando Typescript
 
-<div>
-  <img alt="Meus Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Raphaeljsx&show_icons=true&theme=dark#gh-dark-mode-only" style="margin-right: 20">
-   <img alt="Meus Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphaeljsx&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only">
-</div>
-
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rapha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rapha-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
