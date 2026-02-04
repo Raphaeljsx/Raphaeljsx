@@ -1,3 +1,6 @@
+# Hi, I'm [Raphael Alves de Oliveira] 👋
+
+vascript
 // Me.ts
 export class Me {}
 
@@ -23,3 +26,5 @@ export class About extends Me {
     };
   }
 }
+
+
