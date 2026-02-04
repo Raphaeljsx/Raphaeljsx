@@ -1,6 +1,6 @@
 # Hi, I'm [Raphael Alves de Oliveira] 👋
 
-javascript
+`` ```javascript `
 // Me.ts
 export class Me {}
 
