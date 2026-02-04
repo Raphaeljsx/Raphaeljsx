@@ -1,6 +1,6 @@
 # Hi, I'm Raphael Alves de Oliveira 👋
 
-```typescript``` 
+```typescript 
 // Me.ts
 export class Me {}
 
@@ -26,5 +26,6 @@ export class About extends Me {
     };
   }
 }
+```
 
 
