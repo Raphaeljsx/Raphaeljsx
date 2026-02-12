@@ -21,7 +21,7 @@ export class About extends Me {
     return {
       languages: ['JavaScript/TypeScript', 'PHP'],
       frameworks: ['React', 'WordPress', 'Express', 'Next.js', 'Fastify'],
-      databases: ['MySQL', 'PostgreSQL', 'Firestore'],
+      databases: ['MySQL', 'PostgreSQL', 'Firebase'],
       orm: ['Prisma']
     };
   }
